@@ -1,0 +1,5 @@
+﻿services:
+    "test.service":
+        class: TestpApp/TestClass
+        class_path: TestApp/TestClass.php
+        
