@@ -1,0 +1,7 @@
+﻿services:
+    ElevatorRequest:
+        class: ElevatorRequest
+        class_path: "Controller/ElevatorRequest.php"
+    ElevatorSystem:
+        class: ElevatorSystem
+        class_path: "Controller/ElevatorSystem.php"
