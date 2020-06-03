@@ -1,0 +1,5 @@
+﻿routes:
+    testRoute:
+        method: get
+        uri: "/test"
+        callback: "test.service:handleRequest"

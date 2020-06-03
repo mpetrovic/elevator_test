@@ -1,0 +1,5 @@
+﻿routes:
+    elevator_request:
+        method: post
+        uri: "/elevator/call"
+        callback: "ElevatorRequest:handleRequest"
