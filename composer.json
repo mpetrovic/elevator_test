@@ -1,4 +1,6 @@
 {
+    "name": "evaluation/elevator-test",
+    "description": "A simple evaluation",
     "require": {
         "slim/slim": "3.*",
         "symfony/yaml": "^5.0"
